@@ -1,1 +1,2 @@
 - Hata düzeltmeleri
+- Çeviri eklemeleri
